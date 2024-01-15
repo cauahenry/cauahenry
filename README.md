@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Cauã Henry 😁
+## Bem-vindo(a) ao perfil de Cauã Henry 😁
 
  <div>
    <a href="https://github.com/cauahenry">

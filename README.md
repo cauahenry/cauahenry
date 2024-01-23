@@ -19,7 +19,7 @@
 - Um estudante de programação Front-End
 - Apaixonado por JavaScript
 - Atualmente estou aprendendo Desenvolvimento Web por conta própria.
-- Estou atualmente aberto a uma oportunidade de estágio ou a um novo emprego
+
 
 <br><br>
 

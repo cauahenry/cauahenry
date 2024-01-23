@@ -1,5 +1,5 @@
 <h1 align="center"><b>Olá , Eu sou o Cauã Henry </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Olá+como+você+vai?..&hearts;++;Desenvolvedor+Front-End+Iniciante,;Estudante+de+ADS,;Apaixonado+por+tecnologia,;Apaixonado+por+JavaScript..<3"></a>
 </p>
@@ -10,7 +10,7 @@
 
 
 	
-## <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CaiVJuZGvR8HK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-thinking-triple-CaiVJuZGvR8HK">via GIPHY</a></p> **Sobre mim**
+##  <h1> <b>Olá , Eu sou o Cauã Henry </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
  
 

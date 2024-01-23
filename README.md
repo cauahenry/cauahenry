@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://github.com/cauahenry/cauahenry/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CaiVJuZGvR8HK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-thinking-triple-CaiVJuZGvR8HK">via GIPHY</a></p> **Sobre mim**
 
  
 

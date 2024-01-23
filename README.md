@@ -20,3 +20,22 @@
   <a href="https://instagram.com/cauaahenry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/cauãhenrydev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## Sobre mim
+# Olá, eu sou o Cauã Henry 👋
+
+Sou um estudante de desenvolvimento web front-end, apaixonado por JavaScript e React. Meu objetivo é me tornar um profissional qualificado e criativo na área de programação front-end.
+
+## 🚀 Habilidades
+
+- HTML, CSS, Bootstrap
+- JavaScript, React
+- Git, GitHub, GitHub Pages
+
+## 📚 Projetos
+
+Aqui estão alguns dos projetos que eu desenvolvi ou participei:
+
+- Projeto portifólio para minha equipe de desenvolvimento de software da faculdade
+- Software de agendamento de locais esportivos em Caruaru-PE, o projeto está privado.
+

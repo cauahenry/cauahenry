@@ -16,9 +16,9 @@
 
 <br>
 
-- Um estudante de programação Front-End
-- Apaixonado por JavaScript
-- Atualmente estou aprendendo Desenvolvimento Web por conta própria.
+- Analista de suporte técnico
+- Estudante de cybersecurity
+- Atualmente estou aprendendo Inglês por conta própria
 
 
 <br><br>

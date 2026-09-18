@@ -16,9 +16,9 @@
 
 <br>
 
-- Analista de suporte técnico
-- Estudante de cybersecurity
-- Atualmente estou aprendendo Inglês por conta própria
+- Analista de sistemas
+- Desenvolvedor Web
+  
 
 
 <br><br>

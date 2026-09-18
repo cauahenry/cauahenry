@@ -51,8 +51,8 @@ Administração de acessos e segurança, Redes, Hardware
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![LARAVEL](https://img.shields.io/badge/LARAVEL%20-%231572B6.svg?style=for-the-badge&logo=laravel3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php3&logoColor=white)
+  ![LARAVEL](https://img.shields.io/badge/LARAVEL%20-%231572B6.svg?style=for-the-badge&logo=laravel3&logoColor=red)
+  ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php3&logoColor=purple)
   
 
 <br>

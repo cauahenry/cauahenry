@@ -31,15 +31,15 @@
 <p align="center">
 
 **Skills**:
-Resolução de incidentes,
+Resolução de incidentes
 <br>
 Ferramentas de gestão(Jira)
 <br>
-Sistemas operacionais Windows, Linux(Iniciante)
+Desenvolvedor Web
 <br>
-Suporte remoto e presencial
+Suporte remoto
 <br>
-Gestão de infraestrutura e ativos,
+Gestão e análise de softwares,
 <br>
 Administração de acessos e segurança, Redes, Hardware
 

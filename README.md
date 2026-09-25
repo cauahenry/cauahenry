@@ -68,12 +68,12 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauahenry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=00c8ff" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauahenry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed" height="170" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cauahenry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=00c8ff&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauahenry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&cache_seconds=1800" height="165" alt="Top Langs" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauahenry&theme=tokyonight&hide_border=true&bg_color=0D1117&color=7c3aed&line=7c3aed&point=00c8ff&title_color=ffffff" width="100%" alt="Contribution Graph" />
+<div align="center" style="margin-top: 16px;">
+  <img src="https://streak-stats.demolab.com?user=cauahenry&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=00c8ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="60%" alt="GitHub Streak" />
 </div>
 
 <br/>

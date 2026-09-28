@@ -68,8 +68,8 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauahenry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=00c8ff&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauahenry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&cache_seconds=1800" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=cauahenry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=00c8ff" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=cauahenry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed" height="165" alt="Top Langs" />
 </div>
 
 <div align="center" style="margin-top: 16px;">
@@ -78,7 +78,17 @@
 
 <br/>
 
+---
+
+<!-- Professional Footer / Contact CTA -->
 <div align="center">
+  <p>💼 <b>Aberto para novas oportunidades, projetos e parcerias em tecnologia!</b></p>
   <p><i>"A única maneira de fazer um ótimo trabalho é amando o que você faz."</i> — Steve Jobs</p>
-  <img src="https://projectpokemon.org/images/normal-sprite/blastoise.gif" width="70" alt="Blastoise" />
+  <br/>
+  <a href="https://wa.me/5581983636349">
+    <img src="https://img.shields.io/badge/Vamos_Conversar%3F-Conectar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Vamos Conversar?" />
+  </a>
+  <a href="https://linkedin.com/in/cauahenry">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
